@@ -2,7 +2,7 @@
 
 ### What?
 
-A repository that collects resources, tips, and tricks for time series analysis.
+A repository that collects books, blogs, tips, and tricks for time series analysis.
 
 ### Why?
 
