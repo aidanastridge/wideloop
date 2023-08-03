@@ -8,7 +8,7 @@ An open-source stage to collect books, blogs, tips, and tricks for time series a
 
 ### What is a "wideloop"?
 
-To make time series data in a "long"[^1] format "tidy"[^2] pivot to "wide"[^3] and create a for loop for each category!
+To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and create a for loop for each category!
 
 ## Books 📚
 
