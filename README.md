@@ -8,6 +8,11 @@ A repository that collects books, blogs, tips, and tricks for time series analys
 
 ### "wideloop"?
 
+tidy data:
+1. Every column is variable.
+2. Every row is an observation.
+3. Every cell is a single value.
+
 Data from government agencies is presented in a "long"[^1] format. To make it more manageable pivot the data to "wide"[^2] and create a for loop for each category!
 
 ## Books 📚
