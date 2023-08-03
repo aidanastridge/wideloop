@@ -6,6 +6,8 @@ An open-source stage to collect books, blogs, tips, and tricks for time series a
 
 ### Why?
 
+Time series can feel like the data science equivalent of debugging. In **R**, I get ts, xts, and POSIX.ct errors. In **Python**, I get reshape errors. And modelling is just as complicated.
+
 ### What is a "wideloop"?
 
 To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and create a for loop for each category!
