@@ -12,6 +12,8 @@ Time series can feel like the data science equivalent of debugging. In **R**, yo
 
 To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and create a for-loop for each category!
 
+### Packages 📦
+
 ## Books 📘
 
 [Forecasting: Principles and Practice 3rd ed](https://otexts.com/fpp3/) *– Rob J Hydman and George Athanasopoulos*  
