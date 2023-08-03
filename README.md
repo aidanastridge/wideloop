@@ -6,7 +6,7 @@ An open-source stage to collect books, blogs, tips, and tricks for time series a
 
 ### Why?
 
-Time series can feel like the data science equivalent of debugging. In **R**, you get ts, xts, and POSIX.ct errors. In **Python**, you get reshape errors. And modelling is complicated. I created this repository so I would always have these handy resources.
+Time series can feel like the data science equivalent of debugging. In **R**, you get ts, xts, and POSIX.ct errors. In **Python**, you get reshape errors. And modelling is complicated. I created this repository so I would always have these handy resources that would make sense of it all and make better at what I love to do most.
 
 ### What is a "wideloop"?
 
