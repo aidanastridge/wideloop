@@ -1,4 +1,4 @@
-## wideloop
+## wideloop 📈
 
 ### What?
 
