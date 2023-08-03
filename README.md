@@ -10,7 +10,7 @@ Time series can feel like the data science equivalent of debugging. In **R**, yo
 
 ### What is a "wideloop"?
 
-To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and create a for loop for each category!
+To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and create a for-loop for each category!
 
 ## Books 📚
 
