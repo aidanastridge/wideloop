@@ -22,6 +22,8 @@ To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"w
 
 ## Statistics review
 
+[Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html) *– Rice University, University of Houston Clear Lake, and Tufts University*
+
 ## Journals
 
 ## References 📕
