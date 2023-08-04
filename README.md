@@ -16,9 +16,6 @@ To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"w
 
 [Forecasting: Principles and Practice 3rd ed](https://otexts.com/fpp3/) *– Rob J Hydman and George Athanasopoulos*  
 
-[Applied Time Series Analysis for Fisheries and Environmental Sciences](https://atsa-es.github.io/atsa-labs/)  
-
-[Fisheries Catch Forecasting](https://fish-forecast.github.io/Fish-Forecast-Bookdown/index.html)
 
 ## References 📕
 
