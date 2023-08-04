@@ -24,7 +24,7 @@ To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"w
 
 [Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html) *– Rice University, University of Houston Clear Lake, and Tufts University*
 
-📙 ## Journals/Communities
+## 📙 Journals/Communities
 [StackExchange: Cross Validated](https://stats.stackexchange.com/)  
 [International Institute of Forecasters](https://forecasters.org/)
 
