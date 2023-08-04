@@ -12,10 +12,13 @@ Time Series modelling is complicated. I created this repository so I would alway
 
 To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and create a for-loop for each category!
 
+## Exercises 📋
+
+## Articles 📄
+
 ## Books 📘
 
 [Forecasting: Principles and Practice 3rd ed](https://otexts.com/fpp3/) *– Rob J Hydman and George Athanasopoulos*  
-
 
 ## References 📕
 
