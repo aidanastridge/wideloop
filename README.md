@@ -26,6 +26,7 @@ To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"w
 
 ## Journals 📙
 [StackExchange: Cross Validated](https://stats.stackexchange.com/)
+[International Institute of Forecasters](https://forecasters.org/)
 
 ## References 📕
 
