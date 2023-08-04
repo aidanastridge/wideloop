@@ -10,7 +10,7 @@ Time Series modelling is complicated. I created this repository so I would alway
 
 ### What is a "wideloop"?
 
-To make time series data in a **"long"**[^1] format (Government institutions) **"tidy"**[^2] pivot to **"wide"**[^3] and create a for-loop for each category!
+To make public time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and create a for-loop for each category!
 
 ## 📋 Exercises 
 
