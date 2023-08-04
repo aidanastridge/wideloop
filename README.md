@@ -19,6 +19,7 @@ To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"w
 ## Books 📘
 
 [Forecasting: Principles and Practice 3rd ed](https://otexts.com/fpp3/) *– Rob J Hydman and George Athanasopoulos*  
+[Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) *– Robert Nau*
 
 ## References 📕
 
