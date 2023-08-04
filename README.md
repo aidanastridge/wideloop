@@ -6,7 +6,7 @@ An open-source stage to collect books, tips, and tricks for time series analysis
 
 ### Why?
 
-In **R**, you get ts, tsibble, xts, and POSIX.ct objects; In **Python**, you have multiple packages and methods; Modelling in itself is complicated. I created this repository so I would always have handy resources that would make sense of it all and make me better.
+In **R**, you get ts, tsibble, xts, and POSIX.ct objects; In **Python**, you have multiple packages; Modelling in itself is complicated. I created this repository so I would always have handy resources that would make sense of it all and make me better. While I did start this repository because it was hard to find Python methods, using R as a guide is just as useful.
 
 ### What is a "wideloop"?
 
