@@ -12,15 +12,15 @@ Time Series modelling is complicated. I created this repository so I would alway
 
 To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and create a for-loop for each category!
 
-## Exercises 📋
+## 📋 Exercises 
 
-## Books/Resources 📘
+## 📘 Books/Resources 
 
 [Forecasting: Principles and Practice 3rd ed](https://otexts.com/fpp3/) *– Rob J Hydman and George Athanasopoulos*  
 [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) *– Robert Nau*  
 [STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) *– Penn State Eberly College of Science*
 
-## Statistics 📊
+## 📊 Statistics 
 
 [Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html) *– Rice University, University of Houston Clear Lake, and Tufts University*
 
@@ -28,7 +28,7 @@ To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"w
 [StackExchange: Cross Validated](https://stats.stackexchange.com/)  
 [International Institute of Forecasters](https://forecasters.org/)
 
-## References 📕
+## 📕 References 
 
 [^1]: In the "long" format, each row of the dataset contains multiple observations for different categories, and there are usually two key columns: one for the variable names and another for the corresponding values.
 [^2]: Every column is variable.
