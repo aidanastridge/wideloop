@@ -20,11 +20,12 @@ To make time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"w
 [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) *– Robert Nau*  
 [STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) *– Penn State Eberly College of Science*
 
-## Statistics review 📊
+## Statistics📊
 
 [Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html) *– Rice University, University of Houston Clear Lake, and Tufts University*
 
 ## Journals 📙
+[StackExchange: Cross Validated](https://stats.stackexchange.com/)
 
 ## References 📕
 
