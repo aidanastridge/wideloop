@@ -2,7 +2,7 @@
 
 ### What?
 
-An open-source stage to collect books, tips, and tricks for time series analysis.
+A stage to collect books, tips, and tricks for time series analysis.
 
 ### Why?
 
