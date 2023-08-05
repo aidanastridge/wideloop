@@ -12,7 +12,7 @@ Time Series modelling is complicated. I created this repository so I would alway
 
 To make public time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and then create a for-loop for each level!
 
-## 📋 Exercises 
+## 📋 Datasets 
 
 ## 📘 Books/Resources 
 
