@@ -11,8 +11,8 @@ Time Series modelling is complicated. I created this repository so I would alway
 ### What is a "wideloop"?
 
 To make public time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and then create a for-loop for each level!  
-In Python:   
-In R:
+Example  
+
 
 ## 📋 Datasets
 [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)  
