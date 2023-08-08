@@ -1,9 +1,9 @@
 library(tidyverse)
 
-#EXAMPLE
+# EXAMPLE
 
-#read and drop columns that are not values
-df <- read.csv("/Users/aidanastridge/Documents/32100353.csv", stringsAsFactors = TRUE)
+#read and drop columns that are not values and or completely NA. When R pivots NA columns can cause problems.
+df <- read.csv("/Users/aidanastridge/Documents/wideloop/32100353.csv", stringsAsFactors = TRUE)
 df <- select(df, -c('DGUID','UOM','UOM_ID','SCALAR_FACTOR','SCALAR_ID','VECTOR','COORDINATE','STATUS','SYMBOL','TERMINATED','DECIMALS')) 
 
 #pivot wide
