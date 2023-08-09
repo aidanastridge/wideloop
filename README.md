@@ -39,6 +39,7 @@ statsmodels
 | col 3 is      | $1600 |
  
 ## 📋 Datasets
+
 [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)  
 [Awesome time series databases](https://github.com/xephonhq/awesome-time-series-database)
 
@@ -48,11 +49,12 @@ statsmodels
 [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) *– Robert Nau*  
 [STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) *– Penn State Eberly College of Science*
 
-## 📊 Statistics 
+## 📊 Statistics Review
 
 [Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html) *– Rice University, University of Houston Clear Lake, and Tufts University*
 
 ## 📙 Journals/Communities
+
 [StackExchange: Cross Validated](https://stats.stackexchange.com/)  
 [International Institute of Forecasters](https://forecasters.org/)
 
