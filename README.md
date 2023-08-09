@@ -17,8 +17,7 @@ To make public time series data in a **"long"**[^1] format **"tidy"**[^2] pivot 
 
 sktime  
 darts  
-kats  
-prophet  
+Kats   
 TSFRESH  
 Flint  
 Arrow  
