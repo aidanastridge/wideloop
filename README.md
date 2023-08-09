@@ -2,7 +2,7 @@
 
 ### What?
 
-A stage to collect books, articles, exercises, tips, and tricks for time series analysis in Python.
+A stage to collect (mostly free) online books, articles, exercises, tips, and tricks for time series analysis in Python.
 
 ### Why?
 
