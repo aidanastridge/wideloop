@@ -6,7 +6,7 @@ A stage to collect books, articles, exercises, tips, and tricks for time series 
 
 ### Why?
 
-Time Series modelling is complicated. I created this repository so I would always have handy resources that would make sense of it all and make me better. While I did start this repository because it was hard to find **Python** methods, I have also added resources using **R** and **SAS** as they are useful as guides.
+Time Series modelling is complicated. I created this repository so I would always have handy resources that would make sense of it all and make me better. While I did start this repository because it was hard to find **Python** methods — it isn"t, I was ignorant. I have also added resources using **R** and **SAS** as guides.
 
 ### What is a "wideloop"?
 
