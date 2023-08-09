@@ -43,15 +43,15 @@ statsmodels
 [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)  
 [Awesome time series databases](https://github.com/xephonhq/awesome-time-series-database)
 
+## 📊 Statistics Review
+
+[Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html) *– Rice University, University of Houston Clear Lake, and Tufts University*
+
 ## 📘 Books/Resources 
 
 [Forecasting: Principles and Practice 3rd ed](https://otexts.com/fpp3/) *– Rob J Hydman and George Athanasopoulos*  
 [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) *– Robert Nau*  
 [STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) *– Penn State Eberly College of Science*
-
-## 📊 Statistics Review
-
-[Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html) *– Rice University, University of Houston Clear Lake, and Tufts University*
 
 ## 📙 Journals/Communities
 
