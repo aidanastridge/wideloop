@@ -30,13 +30,13 @@ statsmodels
 
 | Tables        | Purposes  |
 | ------------- | -----:|
-| col 3 is      | $1600 |
+| Placeholder      | Placeholder |
 
 ### Data Wrangling/Formatting
 
 | Tables        | Purposes  |
 | ------------- | -----:|
-| col 3 is      | $1600 |
+| Placeholder     | Placeholder |
  
 ## 📋 Datasets
 
