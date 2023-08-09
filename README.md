@@ -28,11 +28,11 @@ statsmodels
 
 ### Analysis
 
-| Tables        | Are           | Purposes  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Tables        | Purposes  |
+| ------------- | -----:|
+| col 3 is      | $1600 |
+| col 2 is      |   $12 |
+| zebra stripes |    $1 |
 
 ### Data Wrangling/Formatting
 
