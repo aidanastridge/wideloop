@@ -16,16 +16,6 @@ Commonly found in [Statistics Canada data.](https://www150.statcan.gc.ca/n1/en/t
 
 ## 📦 Packages
 
-sktime  
-darts  
-Kats   
-TSFRESH  
-Flint  
-Arrow  
-Orbit  
-pmdarima  
-statsmodels
-
 ### Analysis
 
 | Tables        | Purposes  |
