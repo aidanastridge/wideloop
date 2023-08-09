@@ -31,7 +31,8 @@ Commonly found in [Statistics Canada data.](https://www150.statcan.gc.ca/n1/en/t
 ## 📋 Datasets
 
 [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)  
-[Awesome time series databases](https://github.com/xephonhq/awesome-time-series-database)
+[Awesome time series databases](https://github.com/xephonhq/awesome-time-series-database)  
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/0)
 
 ## 📊 Statistics Review
 
