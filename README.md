@@ -22,9 +22,9 @@ Kats
 TSFRESH  
 Flint  
 Arrow  
-Orbit
-pmdarima
-statsmodels
+Orbit  
+pmdarima  
+statsmodels  
  
 ## 📋 Datasets
 [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)  
