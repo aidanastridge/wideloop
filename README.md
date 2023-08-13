@@ -13,7 +13,7 @@ Time Series modelling is complicated. I created this repository so I would alway
 To make public time series data in a **"long"**[^1] format **"tidy"**[^2] pivot to **"wide"**[^3] and then create a for-loop for each level!  
 Commonly found in [Statistics Canada data.](https://www150.statcan.gc.ca/n1/en/type/data)    
 [Example](https://github.com/aidanastridge/wideloop/blob/main/wideloop/wideloop_example.ipynb)  
-Unfortunatly, it does not work in every case; I'm trying to fix this!
+Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ## 📦 Packages
 
