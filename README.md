@@ -37,20 +37,16 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 [Awesome time series databases](https://github.com/xephonhq/awesome-time-series-database)  
 [UCI Machine Learning Repository](https://archive.ics.uci.edu/0)
 
-## 📊 Statistics Review
-
-[Online Statistics Education: An Interactive Multimedia Course of Study](https://onlinestatbook.com/2/index.html) *– Rice University, University of Houston Clear Lake, and Tufts University*
-
 ## 📘 Books/Resources 
 
 [Forecasting: Principles and Practice 3rd ed](https://otexts.com/fpp3/) *– Rob J Hydman and George Athanasopoulos*  
 [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) *– Robert Nau*  
 [STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) *– Penn State Eberly College of Science*
+[Free Programmming Books](https://books.goalkicker.com/)
 
 ## 📙 Journals/Communities
 
 [StackExchange: Cross Validated](https://stats.stackexchange.com/)  
-[International Institute of Forecasters](https://forecasters.org/)
 
 ## 📕 References 
 
