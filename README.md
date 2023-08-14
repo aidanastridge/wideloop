@@ -41,7 +41,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 [Forecasting: Principles and Practice 3rd ed](https://otexts.com/fpp3/) *– Rob J Hydman and George Athanasopoulos*  
 [Statistical forecasting: notes on regression and time series analysis](https://people.duke.edu/~rnau/411home.htm) *– Robert Nau*  
-[STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) *– Penn State Eberly College of Science* 
+[STAT 510: Applied Time Series Analysis](https://online.stat.psu.edu/stat510/) *– Penn State Eberly College of Science  
 [Free Programmming Books](https://books.goalkicker.com/)
 
 ## 📙 Journals/Communities
