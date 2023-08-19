@@ -1,6 +1,6 @@
 ![Time series graph](https://github.com/aidanastridge/wideloop/blob/main/wideloop_banner.png)
 
-## 📈 wideloop 
+## 📈 Wideloop 
 
 ### What?
 
