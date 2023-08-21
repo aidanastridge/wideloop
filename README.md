@@ -57,6 +57,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 |   | ACF |
 |    | PACF |
 |    | Ljung-box test |
+|    | Durbin-watson test |
 
 
 ## 📋 Datasets
