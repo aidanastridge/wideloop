@@ -29,9 +29,19 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 | Function      | Purpose     |
 | ------------- | ------------|
-| drop()        | Placeholder |
-| dropna()      |      Placeholder       |
+| drop()        | Drop column|
+| dropna()      |      Drop NA values       |
 | fillna()      |             |
+| drop_duplicates()      |             |
+| duplicated()      |             |
+| apply()      |             |
+| map()      |             |
+| astype()      |             |
+| to_datetime()      |             |
+| str.upper()      |             |
+| str.lower()      |             |
+| rename()      |             |
+
 
 ## 📋 Datasets
 
