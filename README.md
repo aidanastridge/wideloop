@@ -50,7 +50,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | log()   | Normalizing: Log-transform |
 | boxcox()   | Normalizing: Box-cox transformation |
 
-## Seasonality
+### Seasonality
 
 | Package        | Purpose     |
 | ------------- | ------------|
