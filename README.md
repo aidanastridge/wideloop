@@ -30,11 +30,8 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | Function      | Purpose     |
 | ------------- | ------------|
 | drop()        | Placeholder |
-| ------------- | ------------|
-| drop()        | Placeholder |
-| ------------- | ------------|
-| drop()        | Placeholder |
- 
+| | |
+
 ## 📋 Datasets
 
 [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)  
