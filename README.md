@@ -27,7 +27,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Data Wrangling/Formatting
 
-| Tables        | Purposes  |
+| Function       | Purpose  |
 | ------------- | -----:|
 | Placeholder     | Placeholder |
  
