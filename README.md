@@ -21,15 +21,15 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Analysis
 
-| Tables        | Purposes  |
-| ------------- | -----:|
-| Placeholder      | Placeholder |
+| Tables        | Purpose     |
+| ------------- | -----------:|
+| Placeholder   | Placeholder |
 
 ### Cleaning
 
-| Function       | Purpose |
-| ------------- | -----:|
-| Placeholder     | Placeholder |
+| Function      | Purpose     |
+| ------------- | -----------:|
+| Placeholder   | Placeholder |
  
 ## 📋 Datasets
 
