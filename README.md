@@ -22,13 +22,13 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 ### Analysis
 
 | Tables        | Purpose     |
-| ------------- | -----------:|
+| ------------- | ------------|
 | Placeholder   | Placeholder |
 
 ### Cleaning
 
 | Function      | Purpose     |
-| ------------- | -----------:|
+| ------------- | ------------|
 | drop()        | Placeholder |
  
 ## 📋 Datasets
