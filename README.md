@@ -25,9 +25,9 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | ------------- | -----:|
 | Placeholder      | Placeholder |
 
-### Data Wrangling/Formatting
+### Cleaning
 
-| Function       | Purpose  |
+| Function       | Purpose |
 | ------------- | -----:|
 | Placeholder     | Placeholder |
  
