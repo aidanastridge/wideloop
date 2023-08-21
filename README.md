@@ -29,18 +29,18 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 | Function      | Purpose     |
 | ------------- | ------------|
-| drop()        | Drop column|
-| dropna()      |      Drop NA values       |
-| fillna()      |             |
-| drop_duplicates()      |             |
-| duplicated()      |             |
-| apply()      |             |
-| map()      |             |
-| astype()      |             |
-| to_datetime()      |             |
-| str.upper()      |             |
-| str.lower()      |             |
-| rename()      |             |
+| drop()        | Drops columns|
+| dropna()      |      Drops NA values       |
+| fillna()      |          Fills NA vlaues   |
+| drop_duplicates()      |      Drops duplicate rows       |
+| duplicated()      |        Identifies duplicate rows     |
+| apply()      |         Applies a function to each row/column    |
+| map()      |         Applies function to dictionary    |
+| astype()      |         Identifies type    |
+| to_datetime()      |         Changes to date format    |
+| str.upper()      |        Uppercases all strings     |
+| str.lower()      |        Lowercases all strings     |
+| rename()      |        Renames column     |
 
 
 ## 📋 Datasets
