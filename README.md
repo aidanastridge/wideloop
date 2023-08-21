@@ -25,7 +25,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | ------------- | ------------|
 | Placeholder   | Placeholder |
 
-### Cleaning
+### Cleaning 
 
 | Function      | Purpose     |
 | ------------- | ------------|
@@ -40,8 +40,10 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | to_datetime()      |         Changes to date format    |
 | str.upper()      |        Uppercases all strings     |
 | str.lower()      |        Lowercases all strings     |
-| rename()      |        Renames column     |
+| rename()      |        Renames columns     |
+| percentile()      |      Useful for finding outliers     |
 
+### Detrending
 
 ## 📋 Datasets
 
