@@ -49,6 +49,14 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | log()   | Log-transform |
 | boxcox()   | Box-cox transformation |
 
+### Diagnosing
+
+| Function        | Purpose     |
+| ------------- | ------------|
+| diff()   | ACF |
+| log()   | PACF |
+| boxcox()   | Ljung-box test |
+
 
 ## 📋 Datasets
 
