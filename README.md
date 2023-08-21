@@ -19,9 +19,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ## 📦 Packages
 
-### Analysis
-
-| Tables        | Purpose     |
+| Package        | Purpose     |
 | ------------- | ------------|
 | Placeholder   | Placeholder |
 
@@ -44,6 +42,13 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | percentile()      |      Useful for finding outliers     |
 
 ### Detrending
+
+| Function        | Purpose     |
+| ------------- | ------------|
+| diff()   | Differencing |
+| log()   | Log-transform |
+| boxcox()   | Box-cox transformation |
+
 
 ## 📋 Datasets
 
