@@ -64,7 +64,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)  
 [Awesome time series databases](https://github.com/xephonhq/awesome-time-series-database)  
-[UCI Machine Learning Repository](https://archive.ics.uci.edu/0)
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 
 ## 📘 Books/Resources 
 
