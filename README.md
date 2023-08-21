@@ -50,6 +50,12 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | log()   | Normalizing: Log-transform |
 | boxcox()   | Normalizing: Box-cox transformation |
 
+## Seasonality
+
+| Package        | Purpose     |
+| ------------- | ------------|
+| Placeholder   | Placeholder |
+
 ### Diagnosing
 
 | Function        | Purpose     |
