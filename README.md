@@ -45,9 +45,10 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 | Function        | Purpose     |
 | ------------- | ------------|
-| diff()   | Differencing |
-| log()   | Log-transform |
-| boxcox()   | Box-cox transformation |
+| diff()   | Linear trend: First-order Differencing |
+| diff().diff()   | Quadratic trend: Second-order Differencing |
+| log()   | Normalizing: Log-transform |
+| boxcox()   | Normalizing: Box-cox transformation |
 
 ### Diagnosing
 
