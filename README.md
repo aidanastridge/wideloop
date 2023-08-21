@@ -30,7 +30,8 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | Function      | Purpose     |
 | ------------- | ------------|
 | drop()        | Placeholder |
-| | |
+| dropna()      |             |
+| dropna()      |             |
 
 ## 📋 Datasets
 
