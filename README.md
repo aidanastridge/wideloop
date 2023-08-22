@@ -8,7 +8,7 @@ A stage to collect (mostly free) online books, articles, exercises, tips, and tr
 
 ### Why?
 
-Time Series modelling is complicated. I created this repository so I would always have handy resources that would make sense of it all and make me better. While I did start this repository because I thought it was hard to find **Python** methods — it isn't; Using Chat GPT and saving resources fixes the confusion. I have also added resources using **R** and **SAS** as guides.
+Time Series modelling is complicated. I created this repository to always have handy resources that make sense of it all and make me better. While I did start this repository because I thought it was hard to find **Python** methods — it isn't; Using Chat GPT and saving resources fixes the confusion. I have also added resources using **R** and **SAS** as guides.
 
 ### What is a "wideloop"?
 
@@ -60,10 +60,10 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 | Function        | Purpose     |
 | ------------- | ------------|
-|   | ACF |
-|    | PACF |
-|    | Ljung-box test |
-|    | Durbin-watson test |
+| plot_acf()  | ACF: MA and AR terms |
+| plot_pacf()   | PACF: AR terms |
+|  acorr_ljungbox()  | Ljung-box test |
+|  durbin_watson()  | Durbin-Watson test |
 
 
 ## 📋 Datasets
