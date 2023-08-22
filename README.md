@@ -54,7 +54,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 | Package        | Purpose     |
 | ------------- | ------------|
-| Placeholder   | Placeholder |
+| STL()   | Seasonal-Trend decomposition using LOESS (STL) |
 
 ### Diagnosing
 
