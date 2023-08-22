@@ -19,7 +19,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ## Methods
 
-| Package        | Purpose     |
+| Function        | Purpose     |
 | ------------- | ------------|
 | Placeholder   | Placeholder |
 
@@ -43,8 +43,8 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Detrending
 
-| Function        | Purpose     |
-| ------------- | ------------|
+| Function        | Purpose     |Package|
+| ------------- | ------------|---------|
 | diff()   | Linear trend: First-order Differencing |
 | diff().diff()   | Quadratic trend: Second-order Differencing |
 | log()   | Normalizing: Log-transform |
@@ -52,14 +52,14 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Seasonality
 
-| Package        | Purpose     |
-| ------------- | ------------|
+| Package        | Purpose     |Package|
+| ------------- | ------------|--------|
 | STL()   | Seasonal-Trend decomposition using LOESS (STL) |
 
 ### Diagnosing
 
-| Function        | Purpose     |
-| ------------- | ------------|
+| Function        | Purpose     |Package|
+| ------------- | ------------|---------|
 | plot_acf()  | ACF: MA and AR terms |
 | plot_pacf()   | PACF: AR terms |
 |  acorr_ljungbox()  | Ljung-box test |
