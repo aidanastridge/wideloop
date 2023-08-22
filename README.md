@@ -17,7 +17,7 @@ Commonly found in [Statistics Canada data.](https://www150.statcan.gc.ca/n1/en/t
 [Example](https://github.com/aidanastridge/wideloop/blob/main/wideloop/wideloop_example.ipynb)  
 Unfortunately, it does not work in every case; I'm trying to fix this!
 
-## Basics
+## 🍞 Basics
 
 ### Methods 
 
