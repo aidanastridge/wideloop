@@ -33,7 +33,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | drop_duplicates()      |      Drops duplicate rows       |
 | duplicated()      |        Identifies duplicate rows     |
 | apply()      |         Applies a function to each row/column    |
-| map()      |         Applies function to dictionary    |
+| map()      |         Applies function to iterable object |
 | astype()      |         Identifies type    |
 | to_datetime()      |         Changes to date format    |
 | str.upper()      |        Uppercases all strings     |
