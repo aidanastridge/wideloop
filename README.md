@@ -21,9 +21,16 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Methods 
 
-| Function        | Purpose     |Package|
+| Method        | Purpose     |Package|
 | ------------- | ------------|---------|
-| Placeholder   | Placeholder |
+| Exponential Smoothing  | Placeholder |
+| Autoregressive  | Placeholder |
+| Moving Average  | Placeholder |
+| Weighted Moving Average  | Placeholder |
+| ARIMA  | Placeholder |
+| SARIMA   | Placeholder |
+| ARCH/GARCH  | Placeholder |
+
 
 ### Cleaning 
 
