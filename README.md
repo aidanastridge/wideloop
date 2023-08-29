@@ -36,19 +36,16 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 |Method   |Purpose|
 |------------|-------|
-| Drops columns|        |
-| Drops NA values|       |
-|          Fills NA values   |
+| Drop columns|        |
+| Drop NA values|       |
+|          Fill NA values   |
 |      Drops duplicate rows       |
-|        Identifies duplicate rows     |
-|         Applies a function to each row/column    |
-|         Applies function to iterable object |
-|         Identifies type    |
-|         Changes to date format    |
-|        Uppercases all strings     |
-|        Lowercases all strings     |
-|        Renames columns     |
-|      Useful for finding outliers     |
+|        Identify duplicate rows     |
+|         Identify types    |
+|       Make sure dates are in their correct format    |
+|        Fomrat case of strings|   |
+|        Rename columns     ||
+|         Identify outliers     ||
 
 ### Detrending
 
