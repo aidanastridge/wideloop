@@ -23,13 +23,15 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 | Method        | Purpose     |
 | ------------- | ------------|
-| Exponential Smoothing  | Placeholder |
-| Autoregressive  | Placeholder |
-| Moving Average  | Placeholder |
-| Weighted Moving Average  | Placeholder |
-| ARIMA  | Placeholder |
-| SARIMA   | Placeholder |
-| ARCH/GARCH  | Placeholder |
+| Exponential Smoothing  |  |
+| Autoregressive  |  |
+| Moving Average  |  |
+| Weighted Moving Average  |  |
+| ARIMA  |  |
+| SARIMA   |  |
+| Regression with ARIMA Residuals    |  |
+| ARCH  |  |
+| GARCH  |  |
 
 
 ### Cleaning 
@@ -49,27 +51,27 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Detrending
 
-| Function        | Purpose     |Package|
-| ------------- | ------------|---------|
-| diff()   | Linear trend: First-order Differencing |
-| diff().diff()   | Quadratic trend: Second-order Differencing |
-| log()   | Normalizing: Log-transform |
-| boxcox()   | Normalizing: Box-cox transformation |
+| Method        | Purpose   |
+| ------------- | ------------|
+| Linear trend: First-order Differencing |
+| Quadratic trend: Second-order Differencing |
+| Normalizing: Log-transform |
+| Normalizing: Box-cox transformation |
 
 ### Seasonality
 
-| Package        | Purpose     |Package|
-| ------------- | ------------|--------|
-| STL()   | Seasonal-Trend decomposition using LOESS (STL) |
+| Method        | Purpose     |
+| ------------- | ------------|
+| Seasonal-Trend decomposition using LOESS (STL) |
 
 ### Diagnosing
 
-| Function        | Purpose     |Package|
-| ------------- | ------------|---------|
-| plot_acf()  | ACF: MA and AR terms |
-| plot_pacf()   | PACF: AR terms |
-|  acorr_ljungbox()  | Ljung-box test |
-|  durbin_watson()  | Durbin-Watson test |
+| Method        | Purpose     |
+| ------------- | ------------|
+| ACF | MA and AR |
+| PACF   | AR |
+|  Ljung-box test  | Autocorrelation |
+|  Durbin-Watson test  | Autocorrelation |
 
 
 ## 📋 Datasets
