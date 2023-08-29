@@ -27,6 +27,8 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | Autoregressive  |  |
 | Moving Average  |  |
 | Weighted Moving Average  |  |
+| AR |  |
+| MA  |  |
 | ARIMA  |  |
 | SARIMA   |  |
 | Regression with ARIMA Residuals    |  |
