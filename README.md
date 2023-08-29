@@ -21,8 +21,8 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Methods 
 
-| Method        | Purpose     |Package|
-| ------------- | ------------|---------|
+| Method        | Purpose     |
+| ------------- | ------------|
 | Exponential Smoothing  | Placeholder |
 | Autoregressive  | Placeholder |
 | Moving Average  | Placeholder |
@@ -34,7 +34,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Cleaning 
 
-|Purpose     |Package|
+|Method   |Purpose|
 |------------|-------|
 | Drops columns|        |
 | Drops NA values|       |
