@@ -24,8 +24,6 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | Method        | Purpose     |
 | ------------- | ------------|
 | Exponential Smoothing  |  |
-| Autoregressive  |  |
-| Moving Average  |  |
 | Weighted Moving Average  |  |
 | AR |  |
 | MA  |  |
