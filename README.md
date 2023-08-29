@@ -38,7 +38,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | ------------- | ------------|-------|
 | drop()        | Drops columns||
 | dropna()      |      Drops NA values       |
-| fillna()      |          Fills NA vlaues   |
+| fillna()      |          Fills NA values   |
 | drop_duplicates()      |      Drops duplicate rows       |
 | duplicated()      |        Identifies duplicate rows     |
 | apply()      |         Applies a function to each row/column    |
