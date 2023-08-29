@@ -34,21 +34,21 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Cleaning 
 
-| Function      | Purpose     |Package|
-| ------------- | ------------|-------|
-| drop()        | Drops columns||
-| dropna()      |      Drops NA values       |
-| fillna()      |          Fills NA values   |
-| drop_duplicates()      |      Drops duplicate rows       |
-| duplicated()      |        Identifies duplicate rows     |
-| apply()      |         Applies a function to each row/column    |
-| map()      |         Applies function to iterable object |
-| astype()      |         Identifies type    |
-| to_datetime()      |         Changes to date format    |
-| str.upper()      |        Uppercases all strings     |
-| str.lower()      |        Lowercases all strings     |
-| rename()      |        Renames columns     |
-| percentile()      |      Useful for finding outliers     |
+|Purpose     |Package|
+|------------|-------|
+| Drops columns|        |
+| Drops NA values|       |
+|          Fills NA values   |
+|      Drops duplicate rows       |
+|        Identifies duplicate rows     |
+|         Applies a function to each row/column    |
+|         Applies function to iterable object |
+|         Identifies type    |
+|         Changes to date format    |
+|        Uppercases all strings     |
+|        Lowercases all strings     |
+|        Renames columns     |
+|      Useful for finding outliers     |
 
 ### Detrending
 
