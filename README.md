@@ -21,8 +21,8 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Methods 
 
-| Method        | Purpose     |
-| ------------- | ------------|
+| Method        | 
+| ------------- | 
 | Exponential Smoothing  |  |
 | Weighted Moving Average  |  |
 | AR |  |
