@@ -23,7 +23,7 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 | Method        | 
 | ------------- | 
-| Exponential Smoothing  |  |
+| Exponential Smoothing  |
 | Weighted Moving Average  |  |
 | AR |  |
 | MA  |  |
