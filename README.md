@@ -33,26 +33,10 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 | ARCH  |  |
 | GARCH  |  |
 
-
-### Cleaning 
-
-|Method   |Purpose|
-|------------|-------|
-| Drop columns|        |
-| Drop NA values|       |
-|          Fill NA values   |
-|      Drops duplicate rows       |
-|        Identify duplicate rows     |
-|         Identify types    |
-|       Make sure dates are in their correct format    |
-|        Fomrat case of strings|   |
-|        Rename columns     ||
-|         Identify outliers     ||
-
 ### Detrending
 
-| Method        | Purpose   |
-| ------------- | ------------|
+| Method        | 
+| ------------- | 
 | Linear trend: First-order Differencing |
 | Quadratic trend: Second-order Differencing |
 | Normalizing: Log-transform |
@@ -60,8 +44,8 @@ Unfortunately, it does not work in every case; I'm trying to fix this!
 
 ### Seasonality
 
-| Method        | Purpose     |
-| ------------- | ------------|
+| Method        |
+| ------------- | 
 | Seasonal-Trend decomposition using LOESS (STL) |
 
 ### Diagnosing
